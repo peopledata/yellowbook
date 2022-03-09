@@ -6,7 +6,7 @@
 
 步骤如下：
 
-##### 1. 【个人用户】通过peopledata的网站（或peopledata成员机构的入口）注册他的people账户。
+##### 1. 【个人用户】通过peopledata的网站（或peopledata成员机构的入口）注册他的peopledata账户。
 
 ```markdown
 ## 开户后，用户将得到：
