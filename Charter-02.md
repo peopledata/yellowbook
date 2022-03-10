@@ -212,11 +212,13 @@ datom:
 
 <img src="./datoms结构.png" alt="datoms" style="zoom:50%;" />
 
+## 3. 如何使用
+```bash
+$ npm install datoms
+```
 
 
-
-
-附录：
+## 附录：
 
 - bitfield:<https://emergent.systems/posts/bit-fields/>
 - VCs data mode v1.1:<https://www.w3.org/TR/vc-data-model/>
