@@ -210,7 +210,7 @@ datom:
 
 不同datom在一个space中。一个示例:
 
-<img src="/Users/zhjerry/Desktop/数悦铭金/开发和工具笔记/peopledata/datoms结构.png" alt="datoms" style="zoom:50%;" />
+<img src="./datoms结构.png" alt="datoms" style="zoom:50%;" />
 
 
 
