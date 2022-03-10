@@ -218,5 +218,5 @@ datom:
 
 附录：
 
-[bitfield]:https://emergent.systems/posts/bit-fields/
-[VCs data mode v1.1]:https://www.w3.org/TR/vc-data-model/
+[bitfield]: https://emergent.systems/posts/bit-fields/
+[VCs data mode v1.1]: https://www.w3.org/TR/vc-data-model/
