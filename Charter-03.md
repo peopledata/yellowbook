@@ -2,7 +2,6 @@
 
 个人数据的开发利用的一个很核心的原则是“在隐私、安全以及开放"这三个因素构成的“不可能三角”下，基于场景寻求最优解决方案。「数悦坊」是基于此原则的一个解决方案。
 
-
 !<img src="数据分类分级框架.png" alt ="数据分类分级框架“ style="zoom:10%;" />
 
 ## 1. 一些基本概念
@@ -26,15 +25,15 @@
 - 个人标签信息不低于2级；
 
 ### 1.2 个人数据空间
-**数据空间**是数据经济中的一个抽象概念。它是数据是一个总称：包括数据模型、数据集、本体、数据分享和专业数据管理服务（即通常由数据中心、存储、储存库单独或在‘数据湖’内提供）的生态系统，以及围绕上述诸元素的治理、政策和业务流程等。	
+**数据空间**是数据经济中的一个抽象概念。它是数据是一个总称：包括数据模型、数据集、本体、数据分享和专业数据管理服务（即通常由数据中心、存储、储存库单独或在‘数据湖’内提供）的生态系统，以及围绕上述诸元素的治理、政策和业务流程等。
 
-**个人数据空间**是数据空间的一个子范畴（sub-category)。
-```html
-They define a dataspace as an “abstraction for data management” across heterogeneous collections, and propose the design and development of a suite of basic services, collectively named DataSpace Support Platforms (DSSPs), to solve in
-a general way the recurring data management chalenges identified for heterogeneous collections of data: search and query, integration, availability, recovery, access control, evolution of data and metadata.
-```
+**狭义的数据空间**定义为异构的“数据管理”的抽象，以解决为异构数据集合确定的那些重复的、可复用的数据管理的一般方法，主要包括：搜索和查询、集成、可用性、恢复、访问控制、数据和元数据，以及数据血缘关系。 
+
+**个人数据空间**是数据空间的一个子范畴（sub-category)。PeopleData的个人数据空间是基于[DIKW金字塔](https://en.wikipedia.org/wiki/DIKW_pyramid)模型构建的。按照三个层次：
+- IT
+- DT
+- CT
 	
-
 ## 2. OPS-C模型
 
 **O**：开放性；**P**：隐私；**S**: 安全 ; **C**：场景
