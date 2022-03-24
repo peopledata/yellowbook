@@ -1,4 +1,4 @@
-# Peopledata 详细说明 —— 个人用户视角
+# Peopledata  —— 个人用户视角
 
 
 
