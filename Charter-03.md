@@ -3,7 +3,7 @@
 
 个人数据的开发利用的一个很核心的原则是“在隐私、安全以及开放这三个因素构成的“不可能三角”前提下，基于场景寻求最优解决方案”。「数悦坊」是基于此原则而实现的一个协议。
 
-!<img>(不可能三角.png）
+<img src="https://static.wixstatic.com/media/c121d8_bcb8aa6657ac4520b8da971fe138487d~mv2.png/v1/fill/w_980,h_883,al_c,usm_0.66_1.00_0.01,enc_auto/%E4%B8%8D%E5%8F%AF%E8%83%BD%E4%B8%89%E8%A7%92.png" alt="不可能三角.png" style="zoom:10%;" />
 
 ## OPS-C模型
 
