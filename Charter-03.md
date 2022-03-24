@@ -1,9 +1,39 @@
 # 个人数据开发利用的“不可能三角”
 
-## 1. 概述
-个人数据的开发利用的一个很核心的原则是“在隐私、安全以及开放这三个因素构成的“不可能三角”前提下，基于场景寻求最优解决方案”。「数悦坊」是基于此原则而实现的一个协议。
+个人数据的开发利用的一个很核心的原则是“在隐私、安全以及开放"这三个因素构成的“不可能三角”下，基于场景寻求最优解决方案。「数悦坊」是基于此原则的一个解决方案。
 
-<img src="https://static.wixstatic.com/media/c121d8_bcb8aa6657ac4520b8da971fe138487d~mv2.png/v1/fill/w_980,h_883,al_c,usm_0.66_1.00_0.01,enc_auto/%E4%B8%8D%E5%8F%AF%E8%83%BD%E4%B8%89%E8%A7%92.png" alt="不可能三角.png" style="zoom:10%;" />
+
+!<img src="数据分类分级框架.png" alt ="数据分类分级框架“ style="zoom:10%;" />
+
+## 1. 一些基本概念
+
+### 1.1 个人数据资产分类分级
+按照《个人信息保护法》第55、56条的规定，为更好的保护个人信息，需要对个人信息进行分类分级。
+《网络安全标准实践指南 - 数据分类分级指引》、《信息安全技术 个人信息安全规范》GB/T35273 -2020、《信息安全技术 个人信息安全影响评估指南》 GB/T 39335-2020 对个人数据分类分级分别做了详细的规定。
+
+##### 数据分类分级总框架
+![img](数据分类分级框架.png)
+
+
+#### 个人信息分类：二级分类
+- 一般个人信息
+- 敏感个人信息
+
+#### 特定数据最低安全级别
+- 敏感个人信息不低于 4 级；
+- 一般个人信息不低于 3 级；
+- 组织内部员工个人信息不低于2级；
+- 个人标签信息不低于2级；
+
+### 1.2 个人数据空间
+**数据空间**是数据经济中的一个抽象概念。它是数据是一个总称：包括数据模型、数据集、本体、数据分享和专业数据管理服务（即通常由数据中心、存储、储存库单独或在‘数据湖’内提供）的生态系统，以及围绕上述诸元素的治理、政策和业务流程等。	
+
+**个人数据空间**是数据空间的一个子范畴（sub-category)。
+```html
+They define a dataspace as an “abstraction for data management” across heterogeneous collections, and propose the design and development of a suite of basic services, collectively named DataSpace Support Platforms (DSSPs), to solve in
+a general way the recurring data management chalenges identified for heterogeneous collections of data: search and query, integration, availability, recovery, access control, evolution of data and metadata.
+```
+	
 
 ## 2. OPS-C模型
 
