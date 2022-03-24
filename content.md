@@ -4,4 +4,4 @@
 ## 第三章 OPS-C模型
 ## 第四章 数悦坊-datomspod
 ## 第五章 元链-metachain
-## 第六章 [peopledata生态](https://github.com/peopledata/whitebook/blob/b5901968220092b7b3ce1abe00caaf1df1970901/ecosystem.md)
+## 第六章 peopledata生态
