@@ -1,12 +1,5 @@
 # Datoms协议
 
-```bash
-# 编写人：jerry.zhang
-# 发布在 peopledata的github上。
-# 首次发布时间：2022年3月9日
-```
-
-
 
 Datoms是个人数据资产化协议堆栈中的最底层协议。
 
@@ -222,3 +215,13 @@ $ npm install datoms
 
 - bitfield:<https://emergent.systems/posts/bit-fields/>
 - VCs data mode v1.1:<https://www.w3.org/TR/vc-data-model/>
+
+
+
+
+```markdown
+# 编写人：jerry.zhang
+# 发布在 peopledata的github上。
+# 首次发布时间：2022年3月9日
+```
+
