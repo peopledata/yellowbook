@@ -7,7 +7,7 @@
 ### 2.2 [OPS-C模型:破解“不可能三角”](Charter-03.md)
 ### 2.3 [datomspod「数悦坊」](Charter-04.md)
 ## 第三章 peopledata：个人数据开发利用新范式
-### 3.1 [peopledata总体概览](peopledata overview.md)
+### 3.1 [peopledata总体概览](CH3-Overview.md)
 ### 3.2 [元链-metachain]
 ### 3.3 [个人区块链]
 ### 3.4 [个人数据资产管理]
