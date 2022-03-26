@@ -31,11 +31,11 @@ peopledata是一个基于【peopledata范式原则】构建的个人数据可信
 
 **peopledata**的总体架构示意图：
 
-![总体架构](/Users/zhjerry/Desktop/数悦铭金/开发和工具笔记/peopledata/peopledata整体架构.png)
+![总体架构](./src/peopledata整体架构.png)
 
 **peopledata**生态是有各利益参与方共建、共享的生态。
 
-```json
+```markdown
 peopledata的主要利益参与方：
 - [1] 数据消费者
 - [2] 数据提供者
@@ -69,7 +69,7 @@ Data Layer（DL）会在整个数字网络中形成独立的层。
 4. DL3层：场景应用 -> 价值生态层
 ```
 
-![data layer](/Users/zhjerry/Desktop/数悦铭金/开发和工具笔记/Data Layer .png)
+![data layer](./src/Data Layer .png)
 
 ## 2. 目标
 
@@ -78,7 +78,7 @@ Data Layer（DL）会在整个数字网络中形成独立的层。
 
 ###  2.1 DL1层
 
-```
+```markwodn
 ------ DL1层 --------
 - 互操作性 interoperability
 		[] 数据模型和格式:data mode & doctype
@@ -173,7 +173,7 @@ Data Layer（DL）会在整个数字网络中形成独立的层。
 
 - 参与方及其之间的关系
 
-![goverance](/Users/zhjerry/Desktop/数悦铭金/开发和工具笔记/goverance .png)
+![goverance](./src/goverance.png)
 
 - 商业
   - 服务协议SLA
@@ -242,7 +242,7 @@ DL层需要解决的一个特别重要的问题是：可信的数据、可信的
 
 DL1层是基础设施，主要是基于个人权能服务构建个人“数据可携带”的基础架构。在次基础上，才能搭建个人数据资产管理等业务。
 
-![个人数据行权维权工具及服务](/Users/zhjerry/Desktop/数悦铭金/开发和工具笔记/个人数据行权和维权工具及服务.png)
+![个人数据行权维权工具及服务](./src/个人数据行权和维权工具及服务.png)
 
 - 个人数据资产管理（PDMS）
 
@@ -276,7 +276,7 @@ DL1层是基础设施，主要是基于个人权能服务构建个人“数据�
 
 DL3层是个人数据开发利用新范式的生态。除了自身生态建设的规范、标准和治理等，还需要兼顾和其他范式之间的互联互通。
 
-```json
+```markwodn
 DL2层会极大的促进数据资本形成。因此，DL3层的核心是数据金融以及其高级形式，例如tokenization。
 除此之外，就是数据外交: mydata，opendata和peopledata范式之间的范式“外交”。
 ```
