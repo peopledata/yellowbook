@@ -69,7 +69,7 @@ Data Layer（DL）会在整个数字网络中形成独立的层。
 4. DL3层：场景应用 -> 价值生态层
 ```
 
-![data layer](src/Data Layer .png)
+![img](src/Data Layer.png)
 
 ## 2. 目标
 
