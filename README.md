@@ -2,7 +2,7 @@
 
 # 目录
 ## 第一章 [peopledata:一个用户视角](Charter-01.md)
-## 第二章 构建peopledata的基础模块
+## 第二章 个人数据资产化基础协议和组件
 ### 2.1 [datoms协议](Charter-02.md)
 ### 2.2 [OPS-C模型:破解“不可能三角”](Charter-03.md)
 ### 2.3 [datomspod「数悦坊」](Charter-04.md)
