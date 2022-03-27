@@ -292,3 +292,11 @@ DL2层会极大的促进数据资本形成。因此，DL3层的核心是数据�
 除此之外，就是数据外交: mydata，opendata和peopledata范式之间的范式“外交”。
 ```
 
+
+
+```markdown
+# 编写人： jerry.zhang<jerry.zhang.bill@gmail.com>
+# MIT License
+
+```
+
