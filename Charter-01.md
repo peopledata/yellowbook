@@ -150,9 +150,7 @@ n个【个人用户】基于同意数据需求方的条款，而加入一个或�
 
 
 ```markdown
-# 编写人：jerry.zhang
-# 发布在 peopledata的github上。
-# 首次发布时间：2022年3月9日
+# MIT License
 ```
 
 
