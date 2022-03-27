@@ -188,8 +188,7 @@ Data Layer（DL）会在整个数字网络中形成独立的层。
 #### 2.1.5 治理 Goverance
 
 - 参与方及其之间的关系
-
-![goverance](goverance.png)
+![goverance](src/goverance.png)
 
 - 商业
   - 服务协议SLA
