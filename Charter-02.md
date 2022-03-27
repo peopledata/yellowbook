@@ -19,6 +19,19 @@ Datoms是个人数据资产化协议堆栈中的最底层协议。
 
 一个datom是具有如下标准结构的文件集合。通常包括六个文件（datoms v1.2.0版本）：
 
+```mermaid
+graph LR
+A[datom] --> B(dataFeed)
+		B --> C{Structure}
+    C --> |bitfield| D[--]
+    C --> |Data| E[data]
+    C --> |Key| F[key]
+    C --> |secret_key| G[secret_key]
+    C --> |signatures| J[sign]
+    C --> |tree| K[Tree]
+```
+
+
 - 1.1 [bitfield]
 
   采用bitfield对datom的一些状态进行二进制编码（es6标准，前缀为0b）。
