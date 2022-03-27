@@ -21,8 +21,7 @@ Datoms是个人数据资产化协议堆栈中的最底层协议。
 
 ```mermaid
 graph LR
-A[datom] --> B(dataFeed)
-		B --> C{Structure}
+A[datom] --> C{Structure}
     C --> |bitfield| D[--]
     C --> |Data| E[data]
     C --> |Key| F[key]
@@ -32,7 +31,7 @@ A[datom] --> B(dataFeed)
 ```
 
 
-- 1.1 [bitfield]
+#### 1.1 bitfield
 
   采用bitfield对datom的一些状态进行二进制编码（es6标准，前缀为0b）。
 
@@ -47,7 +46,7 @@ A[datom] --> B(dataFeed)
   const state = 0b010 
   ```
 
-- 1.2 data
+#### 1.2 data
 
 ​	   采用wc3 [VCs数据模型][VCs data mode v1.1] 的数据资产。一般包括原始数据，metadata以及（数据控制者）数字签名，可验证。VCs数据模型的结构示意图示例如下：
 
@@ -131,72 +130,71 @@ metadata主要来自数据发布者（控制者）,提供metadata主要是对发
 
 proof主要有几种形式：
 
-- 数据发布者数字签名；
+1）数据发布者数字签名；
 
-```json
+```markdown
 数据发布者用自己专用的私钥进行数字签名。并提供验证的方法（methold）。
 验证者可以参考数据发布者公开的url，对此签名进行验证。
 ```
 
-- 中间人数字签名；
+2）中间人数字签名；
 
-```json
+```markdown
 流通链条上经过的任何设备、实体的数字签名。
 为溯源提供可验证的凭证。
 ```
 
-- Witness 方签名；
+3）Witness 方签名；
 
-```json
+```markdown
 witeness方对任何需要见证的事件进行签名。
 ```
 
-- 交易签名；
+4）交易签名；
 
-```json
+```markdown
 对任何更新、更改事项（状态改变）的签名。
 谁做的修改、更新。
 ```
 
-- ZKP零知识证明【可选】
+5）ZKP零知识证明【可选】
 
-```json
+```markdown
 采用ZKP-SNACK进行的non-interactive的零知识证明。
 针对特定场景，需要非交互式的ZKP。
 ```
 
-- 1.3 key
+#### 1.3 key
 
-```json
+```markdown
 由一个masterkey生成的private-key.
 拥有此key，才能访问datom。
 ```
 
-- 1.4 secret_key
+#### 1.4 secret_key
 
-```json
+```markdown
 e2e传输协议[noise]用的key
 ```
 
-- 1.5 signatures
+#### 1.5 signatures
 
-```json
+```markdown
 对数据块的签名
 ```
 
-- 1.6 tree
+#### 1.6 tree
 
-```json
+```markdown
 对datom的数据块计算merkle tree。并把root hash存储在此。以作为后续审计和验证。
 ```
 
-- 1.7 [可选项]
+#### 1.7 [可选项]
 
-  ```json
+  ```markdown
   可自定义的添加项。
   ```
 
-  
 
 ## 2. datoms
 
