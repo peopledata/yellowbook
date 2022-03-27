@@ -294,9 +294,9 @@ DL2层会极大的促进数据资本形成。因此，DL3层的核心是数据�
 
 
 
-```markdown
-# 编写人： jerry.zhang<jerry.zhang.bill@gmail.com>
-# MIT License
 
-```
+
+
+#### 编写人： [jerry.zhang](jerry.zhang.bill@gmail.com)
+#### MIT License
 
