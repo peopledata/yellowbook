@@ -29,10 +29,6 @@
 peopledata是一个基于【peopledata范式原则】构建的个人数据可信、安全流通和分享的分布式基础设施。
 ```
 
-**peopledata**的总体架构示意图：
-
-![总体架构](src/peopledata整体架构.png)
-
 **peopledata**生态是有各利益参与方共建、共享的生态。
 
 ```markdown
