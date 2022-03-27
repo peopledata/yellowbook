@@ -281,9 +281,10 @@ spec:
 
 
 
+
 ```markdown
-# 编写人：jerry.zhang
-# 发布在 peopledata的github上。
-# 首次发布时间：2022年3月9日
+# 编写人： jerry.zhang<jerry.zhang.bill@gmail.com>
+# MIT License
+
 ```
 
