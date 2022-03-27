@@ -149,11 +149,10 @@ n个【个人用户】基于同意数据需求方的条款，而加入一个或�
 
 
 
-```markdown
-# 编写人： jerry.zhang<jerry.zhang.bill@gmail.com>
-# MIT License
 
-```
+#### 编写人： jerry.zhang<jerry.zhang.bill@gmail.com>
+#### MIT License
+
 
 
 
