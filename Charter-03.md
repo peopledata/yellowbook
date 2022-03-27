@@ -143,7 +143,5 @@ OPS-C模型： OPS度量是一个向量,所有场景的OPS度量构成一个向�
 
 
 ```markdown
-# 编写人：jerry.zhang
-# 发布在 peopledata的github上。
-# 首次发布时间：2022年3月9日
+MIT License
 ```
