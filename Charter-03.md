@@ -143,9 +143,7 @@ OPS-C模型： OPS度量是一个向量,所有场景的OPS度量构成一个向�
 
 
 
-```markdown
-# 编写人： jerry.zhang<jerry.zhang.bill@gmail.com>
-# MIT License
 
-```
 
+#### 编写人： [jerry.zhang](jerry.zhang.bill@gmail.com)
+#### MIT License
