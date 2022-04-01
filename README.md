@@ -8,7 +8,7 @@
 ### 2.3 [datomspod「数悦坊」](Charter-04.md)
 ## 第三章 个人数据开发利用新范式：peopledata
 ### 3.1 [peopledata总体概览](CH-3-Overview.md)
-### 3.2 [元链-metachain]
+### 3.2 [元链-metachain](metachain.md)
 ### 3.3 [个人数据保护](geshubao.md)
 ### 3.4 [个人数据市场]
 ### 3.5 [个人数据合作组织]
