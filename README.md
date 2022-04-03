@@ -10,7 +10,7 @@
 ### 3.1 [peopledata总体概览](CH-3-Overview.md)
 ### 3.2 [元链-metachain](metachain.md)
 ### 3.3 [个人数据保护](geshubao.md)
-### 3.4 [个人数据市场]
+### 3.4 [个人数据市场](pdmarket.md)
 ### 3.5 [个人数据合作组织]
 ### 3.6 [个人数据DAO]
 ### 3.7 [数据金融]
