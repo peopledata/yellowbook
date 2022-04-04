@@ -12,7 +12,7 @@
 ### 3.3 [个人数据保护](geshubao.md)
 ### 3.4 [个人数据市场](pdmarket.md)
 ### 3.5 [个人数据合作组织](pdco.md)
-### 3.6 [数据金融]
+### 3.6 [数据金融](datafin.md)
 ## 第四章 peopledata生态
 
 
