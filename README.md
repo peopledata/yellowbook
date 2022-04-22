@@ -1,5 +1,5 @@
 
-# 目录
+# PeopleData白皮书
 ## 第一章 [什么是peopledata？](Charter-01.md)
 ## 第二章 个人数据资产化基础协议和组件
 ### 2.1 [datoms协议](Charter-02.md)
