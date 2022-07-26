@@ -1,4 +1,4 @@
-# PeopleData白皮书
+# PeopleData黄皮书
 
 # 目录
 ## 第一章 [什么是peopledata？](Charter-01.md)
